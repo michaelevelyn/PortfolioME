@@ -61,3 +61,32 @@
 		background: #fff;
 		border: 1px solid #ddd;
 	}
+
+	h3, .sidebar h2 {
+		padding-bottom: 20px;
+		margin-bottom: 15px;
+		line-height: 22px;
+		border-bottom: 2px solid yellow;
+	}
+
+	.social {
+		width: 62px;
+		height: 62px;
+		margin-top: 8px;
+		margin-right: 5px;
+	}
+
+	footer {
+		padding: 30px 0;
+		clear: both;
+		font-size: 12px;
+		color: yellow;
+		text-align: center;
+		background: black;
+		border-top: 8px solid red;
+	}
+
+	img {
+		height: 220px;
+		width: 250px;
+	}
